@@ -42,15 +42,6 @@ class Plotly_Plotter:
         my_layout = Layout(title='Global Earthquakes')
         fig = {'data': data, 'layout': my_layout}
         offline.plot(fig, filename='global_earthquakes.html')
-        # fig.show()
-        # help(tools)
-        # create an mpl figure and store it under a variable 'fig'
-
-        # renderer = PlotlyRenderer()
-        # exporter = mplexporter.Exporter(renderer)
-        # exporter.run(fig)
-        # fig.show()
-
 
 
 
