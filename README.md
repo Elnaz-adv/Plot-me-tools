@@ -1,4 +1,4 @@
 # plot-me-beautiful
-Here we analyze , how we could visualize the data in a plausible beautiful way
+Here i analyze , how i could visualize the data in a different ways.
 
 here is a summery of different possibilietes you have to visualize the data in a appropriate way.
